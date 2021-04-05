@@ -1,0 +1,12 @@
+Python
+JavaScript
+Java
+C#
+Node
+Angular
+Golang
+SQL
+C
+C++
+Terraform
+ 
